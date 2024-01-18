@@ -7,7 +7,7 @@
 this is just a pic of the top side (facing keyboard) of the mainboard. specific components are highlighted in red
 mainboard has a profile of ~72.90mm by ~155mm
 
-power is recieved through a 3.5mm  dc plug at 12v ~1A(?), a suitable replacement being <a href="https://www.lcsc.com/product-detail/AC-span-style-background-color-ff0-DC-span-Power-Connectors_HDGC-DC400170-0961-3H_C7428737.html">the DC400170-0961-3H
+power is recieved through a 3.5mm  dc plug at 12v ~2-3A(?), a suitable replacement being <a href="https://www.lcsc.com/product-detail/AC-span-style-background-color-ff0-DC-span-Power-Connectors_HDGC-DC400170-0961-3H_C7428737.html">the DC400170-0961-3H
 </a> plug.
 
 ic/chip | highlighted color | datasheet link | extra notes
