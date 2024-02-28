@@ -4,7 +4,7 @@
 
 <img src="pcbImages/20240117_220708.jpg" width=20%  height=36% style="transform: rotate(90deg);"></img>
 <br>
-this is just a pic of the top side (facing keyboard) of the mainboard. specific components are highlighted in red
+this is just a pic of the top side (facing keyboard) of the mainboard. specific components are highlighted in red <br>
 mainboard has a profile of ~72.90mm by ~155mm
 
 if you look closely, you can even see where i broke the board, near the charger port..
